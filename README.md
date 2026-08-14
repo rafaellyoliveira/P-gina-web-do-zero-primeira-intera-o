@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta Rafaelly ="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
 <body>
@@ -15,7 +15,7 @@
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta Rafaelly ="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
 <body>
@@ -26,14 +26,14 @@
 <title>Blog</title>
 <h2>Meu primeiro post</h2>
 <p>Boas-vindas ao meu novo blog! Aqui vou compartilhar dicas de programação e curiosidades da área de tecnologia.</p>
-<p>Por: Marcelo Paludetto</p>
+<p>Por: Rafaelly De Oliveira </p>
 <header>
     <h1>Meu blog tech</h1>
     <p>Vou compartilhar conhecimentos sobre tecnologia e programação</p>
 </header>
 <main>
     <h2>Meu primeiro post</h2>
-    <p>Por: Marcelo Paludetto</p>
+    <p>Por: Rafaelly De Oliveira </p>
     <p>Boas-vindas ao meu novo blog! Aqui vou compartilhar dicas de programação e curiosidades da área de tecnologia.</p>
 </main>
 <style></style>
@@ -77,7 +77,7 @@ header {
 display: flex;
 <div>
     <h2>Meu primeiro post</h2>
-    <p>Por: Marcelo Paludetto</p>
+    <p>Por: Rafaelly De Oliveira</p>
     <p>Boas-vindas ao meu novo blog! Aqui vou compartilhar dicas de programação e curiosidades da área de tecnologia.</p>
 </div>
 p {
