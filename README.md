@@ -139,7 +139,7 @@ botoes.forEach(function(botao) {
 
     <div>
         <h2>Meu primeiro post</h2>
-        <p class="artigo-autor">Por: Marcelo Paludetto</p>
+        <p class="artigo-autor">Por: Rafaelly De Oliveira </p>
         <p>Boas-vindas ao meu novo blog! Aqui vou compartilhar dicas de programação
             e curiosidades da área de tecnologia.</p>
         <button>��<span>0</span></button>
@@ -150,7 +150,7 @@ botoes.forEach(function(botao) {
 
     <div>
         <h2>Meu primeiro post</h2>
-        <p class="artigo-autor">Por: Marcelo Paludetto</p>
+        <p class="artigo-autor">Por: Rafaelly De Oliveira </p>
         <p>Boas-vindas ao meu novo blog! Aqui vou compartilhar dicas de programação
             e curiosidades da área de tecnologia.</p>
         <button>��<span>0</span></button>
@@ -164,7 +164,7 @@ botoes.forEach(function(botao) {
 
         <div>
             <h2>Meu primeiro post</h2>
-            <p class="artigo-autor">Por: Marcelo Paludetto</p>
+            <p class="artigo-autor">Por: Rafaelly De Oliveira </p>
             <p>Boas-vindas ao meu novo blog! Aqui vou compartilhar dicas de programação
                 e curiosidades da área de tecnologia.</p>
             <button>��<span>0</span></button>
@@ -177,7 +177,7 @@ botoes.forEach(function(botao) {
 
         <div>
             <h2>Meu primeiro post</h2>
-            <p class="artigo-autor">Por: Marcelo Paludetto</p>
+            <p class="artigo-autor">Por: Rafaelly De Oliveira </p>
             <p>Boas-vindas ao meu novo blog! Aqui vou compartilhar dicas de programação
                 e curiosidades da área de tecnologia.</p>
             <button>��<span>0</span></button>
